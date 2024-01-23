@@ -1,0 +1,14 @@
+C:\dev\dotnet\EstudoBase\EditorTexto\bin\Debug\net8.0\EditorTexto.exe
+C:\dev\dotnet\EstudoBase\EditorTexto\bin\Debug\net8.0\EditorTexto.deps.json
+C:\dev\dotnet\EstudoBase\EditorTexto\bin\Debug\net8.0\EditorTexto.runtimeconfig.json
+C:\dev\dotnet\EstudoBase\EditorTexto\bin\Debug\net8.0\EditorTexto.dll
+C:\dev\dotnet\EstudoBase\EditorTexto\bin\Debug\net8.0\EditorTexto.pdb
+C:\dev\dotnet\EstudoBase\EditorTexto\obj\Debug\net8.0\EditorTexto.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\dotnet\EstudoBase\EditorTexto\obj\Debug\net8.0\EditorTexto.AssemblyInfoInputs.cache
+C:\dev\dotnet\EstudoBase\EditorTexto\obj\Debug\net8.0\EditorTexto.AssemblyInfo.cs
+C:\dev\dotnet\EstudoBase\EditorTexto\obj\Debug\net8.0\EditorTexto.csproj.CoreCompileInputs.cache
+C:\dev\dotnet\EstudoBase\EditorTexto\obj\Debug\net8.0\EditorTexto.dll
+C:\dev\dotnet\EstudoBase\EditorTexto\obj\Debug\net8.0\refint\EditorTexto.dll
+C:\dev\dotnet\EstudoBase\EditorTexto\obj\Debug\net8.0\EditorTexto.pdb
+C:\dev\dotnet\EstudoBase\EditorTexto\obj\Debug\net8.0\EditorTexto.genruntimeconfig.cache
+C:\dev\dotnet\EstudoBase\EditorTexto\obj\Debug\net8.0\ref\EditorTexto.dll
